@@ -1,0 +1,1 @@
+procedure X is begin if True then Safety_Handler; end if; end X;

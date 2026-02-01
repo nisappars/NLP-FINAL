@@ -1,0 +1,1 @@
+procedure Init_Safety is begin null; end; procedure Main is begin null; end Main;

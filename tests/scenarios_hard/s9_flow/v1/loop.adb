@@ -1,0 +1,1 @@
+procedure L is begin while True loop null; end loop; end L;

@@ -1,0 +1,1 @@
+package body P is procedure New_Feat is begin null; end; end P;

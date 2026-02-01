@@ -1,0 +1,1 @@
+procedure B(Y: in Int; X: in Int) is begin null; end B;

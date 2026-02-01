@@ -1,0 +1,1 @@
+procedure Root is begin Leaf; end Root;

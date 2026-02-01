@@ -1,0 +1,1 @@
+procedure T is begin null; end T;

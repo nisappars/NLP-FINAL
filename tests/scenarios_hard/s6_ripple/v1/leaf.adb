@@ -1,0 +1,1 @@
+procedure Leaf is begin A; end Leaf;

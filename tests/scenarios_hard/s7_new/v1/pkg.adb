@@ -1,0 +1,1 @@
+package body P is end P;

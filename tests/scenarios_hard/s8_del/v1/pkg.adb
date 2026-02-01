@@ -1,0 +1,1 @@
+procedure Old is begin null; end;
